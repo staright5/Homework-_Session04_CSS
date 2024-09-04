@@ -1,0 +1,7 @@
+.color {
+  color: red;
+}
+.no_color {
+  color: inherit;
+  background-color: yellow;
+}
